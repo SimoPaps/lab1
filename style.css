@@ -1,0 +1,17 @@
+html, body, h1, h2, h3, p, ol, li, a {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.nav li, a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+
+.nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
